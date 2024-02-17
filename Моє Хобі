@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="ytf-8">
+        <title>Завдання 13.02.2024</title>
+</head>
+<body>
+        <header>
+
+        </header>
+                <h1>Моє хобі 13.02.2024</h1>
+                <a hret-"index.html"> <h2>Перша сторінка </h2></a>
+        <section>
+                <h3> Моє хобі це смотреть Аніме та читати Мангу
+                          Аніме (МФА: [an̠ʲime] ( прослухати), від англ. animation [анімейшон]) — японська анімація. 
+                          Манга комікси, що створені в Японії або японською мовою.
+                </3>
+
+                <img src="https://animego.org/media/cache/thumbs_250x350/upload/anime/images/6492bccecad5a252978706.jpg" alt=" Моє улюблене аниме:передсмертний список зомбі">
+
+        </section>
+        <footer>
+                <h5>ArtemAndru</h5>
+        </footer>
+</body>
+</html>
