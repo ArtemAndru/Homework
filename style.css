@@ -38,7 +38,8 @@ h3
          color: yellow;
          text-align: left;   
          /*background-color: royalblue;*/
-         background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg);   
+         background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg);
+         background-size: 100%;   
       
       {      
 
