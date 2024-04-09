@@ -28,19 +28,21 @@ h2
       
       }
 
-h3
-      
-      
-      {
-         
-         font-size: 15px;
-         font-family: Arial, sans-serif;
-         color: yellow;
-         text-align: left;   
-         /*background-color: royalblue;*/
-         background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg);
-         background-size: 100%;   
-      
-      }     
+.paragraph {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.paragraph1 {
+  font-family: "Rubik Bubbles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
 
             
